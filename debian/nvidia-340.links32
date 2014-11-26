@@ -1,6 +1,15 @@
 /usr/lib32/nvidia-340/libGL.so.340.58 /usr/lib32/nvidia-340/libGL.so.1
 /usr/lib32/nvidia-340/libGL.so.1 /usr/lib32/nvidia-340/libGL.so
 
+/usr/lib32/nvidia-340/libEGL.so.340.58 /usr/lib32/nvidia-340/libEGL.so.1
+/usr/lib32/nvidia-340/libEGL.so.1 /usr/lib32/nvidia-340/libEGL.so
+
+/usr/lib32/nvidia-340/libGLESv1_CM.so.340.58 /usr/lib32/nvidia-340/libGLESv1_CM.so.1
+/usr/lib32/nvidia-340/libGLESv1_CM.so.1 /usr/lib32/nvidia-340/libGLESv1_CM.so
+
+/usr/lib32/nvidia-340/libGLESv2.so.340.58 /usr/lib32/nvidia-340/libGLESv2.so.2
+/usr/lib32/nvidia-340/libGLESv2.so.2 /usr/lib32/nvidia-340/libGLESv2.so
+
 /usr/lib32/nvidia-340/libnvidia-cfg.so.340.58 /usr/lib32/nvidia-340/libnvidia-cfg.so.1
 /usr/lib32/nvidia-340/libnvidia-cfg.so.1 /usr/lib32/nvidia-340/libnvidia-cfg.so
 

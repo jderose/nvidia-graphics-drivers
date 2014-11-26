@@ -12,6 +12,7 @@ NVIDIA-Linux-x86-340.58/nvidia_drv.so /usr/lib/nvidia-340/xorg
 NVIDIA-Linux-x86-340.58/libglx.so.340.58 /usr/lib/nvidia-340/xorg
 
 NVIDIA-Linux-x86-340.58/libGL*.so*                  /usr/lib/nvidia-340
+NVIDIA-Linux-x86-340.58/libEGL*.so*                 /usr/lib/nvidia-340
 NVIDIA-Linux-x86-340.58/libnv*.so*                  /usr/lib/nvidia-340
 
 NVIDIA-Linux-x86-340.58/libvdpau_nvidia.so*   /usr/lib/nvidia-340/vdpau
@@ -30,3 +31,4 @@ NVIDIA-Linux-x86-340.58/nvidia-cuda-mps-server /usr/lib/nvidia-340/bin
 NVIDIA-Linux-x86-340.58/nvidia-persistenced /usr/lib/nvidia-340/bin
 
 NVIDIA-Linux-x86-340.58/nvidia-application-profiles-340.58-rc /usr/share/nvidia-340
+NVIDIA-Linux-x86-340.58/nvidia-application-profiles-340.58-key-documentation /usr/share/nvidia-340
